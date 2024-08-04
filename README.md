@@ -11,7 +11,7 @@ Process a large dataset from NOAA (National Oceanic and Atmospheric Administrati
 
 ## Architecture
 
-![Architecture](https://github.com/user-attachments/assets/13ce9cda-445d-4d8c-a143-680cf91850cb)
+![Architecture](https://github.com/user-attachments/assets/7e06f4e1-7de7-4f5e-9faf-2fee2b6956a4)
 
 ## Tech Stack
 
