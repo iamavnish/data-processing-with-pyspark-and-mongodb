@@ -11,7 +11,7 @@ Process a large dataset from NOAA (National Oceanic and Atmospheric Administrati
 
 ## Tech Stack
 
-- Spark
+- Apache Spark
 - MongoDB (Community Edition)
 - Python
 
