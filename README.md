@@ -26,11 +26,11 @@ Medium
 
 ## Dataset
 
-Dataset from NOAA (National Oceanic and Atmospheric Administration) showing precipitation rates for a 10 year period from US state of Wisconsin.
+Dataset from NOAA (National Oceanic and Atmospheric Administration) showing precipitation rates for a 10 year period from US state of Wisconsin (data.csv)
 
 ## Solution
 
-PySpark code will extract / read the data from NOAA csv file into a Spark dataframe. Then data will be cleansed in such a way that invalid records where precipitation rate is 999.99 will be discarded. Then valid records are being inserted / saved into a collection in MongoDB database. Also individual records are being grouped by station names so that a report can be generated on what are the top 5 stations where precipitation frequency was highest. Further this grouped / processed data is also being saved / inserted to a seperate MongoDB collection.
+PySpark code (task.py) will extract / read the data from NOAA csv file into a Spark dataframe. Then data will be cleansed in such a way that invalid records where precipitation rate is 999.99 will be discarded. Then valid records are being inserted / saved into a collection in MongoDB database. Also individual records are being grouped by station names so that a report can be generated on what are the top 5 stations where precipitation frequency was highest. Further this grouped / processed data is also being saved / inserted to a seperate MongoDB collection.
 
 ## Visualization
 
