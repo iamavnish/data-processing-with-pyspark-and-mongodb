@@ -18,6 +18,7 @@ Process a large dataset from NOAA (National Oceanic and Atmospheric Administrati
 - Apache Spark
 - MongoDB (Community Edition)
 - Python
+- PowerBI Desktop
 
 ## Dataset
 
