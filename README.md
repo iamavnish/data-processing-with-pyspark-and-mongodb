@@ -9,6 +9,10 @@ This is Proof of Concept for creating a Data Pipeline with PySpark and MongoDB.
 
 Process a large dataset from NOAA (National Oceanic and Atmospheric Administration) showing precipitation rates for a 10 year period from US state of Wisconsin.
 
+## PoC Complexity Level
+
+Medium
+
 ## Architecture
 
 ![Architecture](https://github.com/user-attachments/assets/7e06f4e1-7de7-4f5e-9faf-2fee2b6956a4)
