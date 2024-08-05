@@ -15,7 +15,7 @@ Medium
 
 ## Architecture
 
-![Architecture](https://github.com/user-attachments/assets/7e06f4e1-7de7-4f5e-9faf-2fee2b6956a4)
+![Architecture](https://github.com/user-attachments/assets/bc52e94e-3346-4df8-bad1-7dbfbb480781)
 
 ## Tech Stack
 
