@@ -22,3 +22,5 @@ Process a large dataset from NOAA (National Oceanic and Atmospheric Administrati
 ## Dataset
 
 Dataset from NOAA (National Oceanic and Atmospheric Administration) showing precipitation rates for a 10 year period from US state of Wisconsin.
+
+## Solution
