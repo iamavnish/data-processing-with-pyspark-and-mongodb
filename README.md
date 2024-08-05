@@ -31,3 +31,7 @@ PySpark code will extract / read the data from NOAA csv file into a Spark datafr
 
 ![Visualization](https://github.com/user-attachments/assets/280216c8-0668-4c83-a769-8b4c0ada877e)
 
+## Limitations / Improvement Areas
+
+Due to ODBC driver issue meant to connect PowerBI with MongoDB, PowerBI couldn't import data directly from MongoDB. As a workaround, exported data from MongoDB collection into a CSV file which PowerBI consumed as a data source for creating visualization.
+
